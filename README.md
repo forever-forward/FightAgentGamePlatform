@@ -1,4 +1,4 @@
-# FightLadder: A Benchmark for Competitive Multi-Agent Reinforcement Learning
+# FightAgentGamePlatform: A Benchmark for Competitive Multi-Agent Reinforcement Learning
 
 ## Setup
 
